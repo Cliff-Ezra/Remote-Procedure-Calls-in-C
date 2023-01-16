@@ -37,6 +37,7 @@ char **proc_3_1_svc(int argp, struct svc_req *rqstp)
     int n = strlen(result) - 1;
     sprintf(result, "%d is", argp); // convert the int to a string
     result[n] = '\0';
-    printf("Result: %s\n", result);
+    printf("\nEnd of third procedure; You can exit the server\n");
+    printf("**********************************************\n");
     return &result;
 }
