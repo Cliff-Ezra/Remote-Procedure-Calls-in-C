@@ -161,4 +161,4 @@ When a process on the client machine (A) calls a procedure on the server machine
 
 Remote Procedure Call      |  Interaction between client and server
 :-------------------------:|:-------------------------:
-![img1](img.jpeg)              |  ![img2](img2.png)
+![img1](img.jpeg)   |  ![img2](img2.png)
