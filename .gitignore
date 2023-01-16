@@ -1,0 +1,9 @@
+client
+client.o
+rpc_clnt.o
+rpc_svc.o
+server
+server.o
+rpc_xdr.o
+/.vscode
+image.drawio
