@@ -157,6 +157,10 @@ When a process on the client machine (A) calls a procedure on the server machine
 
 #### Overview of RPC communication
 
-Remote Procedure Call      |  Interaction between client and server
-:-------------------------:|:-------------------------:
-![img1](img.jpeg)   |  ![img2](img2.png)
+##### Remote Procedure Call
+
+![img1](img.jpeg)
+
+##### Interaction between client and server
+
+![img2](img2.png)

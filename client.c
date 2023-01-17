@@ -16,7 +16,7 @@ int main(int argc, char *argv[])
     CLIENT *cl;
     int param1;
     int param2;
-    char *param2_string = "2.5";
+    char *param2_string = "5";
     int param3;
 
     /* Create a client handle for the server */
