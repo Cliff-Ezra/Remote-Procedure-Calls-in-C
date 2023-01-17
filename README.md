@@ -1,7 +1,5 @@
 # Use RPCGen to create a client and server process that communicate using Remote Procedure Calls
 
-##
-
 ## Objective
 
 Using RPCGen tool for C and C++, create client and server processes that communicate using Remote Procedure Calls. Create three remote procedures that perform anything you wish. But those procedures must accept and return parameters as follows:
